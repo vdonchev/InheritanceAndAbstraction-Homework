@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="_03.CompanyHierarchy.Models.CompanyConstants" Collapsed="true">
-    <Position X="13.75" Y="1" Width="1.5" />
+    <Position X="24.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
       <FileName>Models\CompanyConstants.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Customer" Collapsed="true">
-    <Position X="4.5" Y="2.25" Width="1.5" />
+    <Position X="15.25" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAE=</HashCode>
       <FileName>Models\Customer.cs</FileName>
@@ -16,15 +16,15 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Developer" Collapsed="true">
-    <Position X="6.75" Y="5.25" Width="1.5" />
+    <Position X="17.5" Y="5.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAQA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQA=</HashCode>
       <FileName>Models\Developer.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Employee" Collapsed="true">
-    <Position X="9" Y="2.25" Width="1.5" />
+    <Position X="19.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAACAAAAAkAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Employee.cs</FileName>
@@ -32,15 +32,15 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Manager" Collapsed="true">
-    <Position X="11.25" Y="3.75" Width="1.5" />
+    <Position X="22" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAI=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Manager.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Person" Collapsed="true">
-    <Position X="7.75" Y="1" Width="1.5" />
+    <Position X="18.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAEAAAABAAAAMAAAAAAAAAAAAAAAAAAAACAAAAgA=</HashCode>
       <FileName>Models\Person.cs</FileName>
@@ -48,15 +48,15 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Project" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="17.25" Y="1" Width="1.5" />
+    <Position X="28" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAABAAAACAAAAAAAAAAEAAAAAAAABCAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAABAAAECQAAAAgAAAAEAAAAAAAABCAAAAA=</HashCode>
       <FileName>Models\Project.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.RegularEmployee" Collapsed="true">
-    <Position X="7.75" Y="3.75" Width="1.5" />
+    <Position X="18.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\RegularEmployee.cs</FileName>
@@ -64,100 +64,100 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.Sale" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="13.75" Y="2" Width="1.5" />
+    <Position X="24.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAAA=</HashCode>
+      <HashCode>AAABAAAAAQAAAAAEAAAAAAAAAAAAAAABAAgAAAAIAAA=</HashCode>
       <FileName>Models\Sale.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="_03.CompanyHierarchy.Models.SalesEmployee" Collapsed="true">
-    <Position X="9" Y="5.25" Width="1.5" />
+    <Position X="19.75" Y="5.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AEAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\SalesEmployee.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_03.CompanyHierarchy.ProgramMain" Collapsed="true">
-    <Position X="15.5" Y="1" Width="1.5" />
+    <Position X="26.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>ProgramMain.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="_03.CompanyHierarchy.Validators.Validations" Collapsed="true">
-    <Position X="15.5" Y="2" Width="1.5" />
+    <Position X="26.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
       <FileName>Validators\Validations.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="_03.CompanyHierarchy.Interfaces.ICustomer" Collapsed="true">
-    <Position X="4.5" Y="8.25" Width="1.5" />
+    <Position X="15.25" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
       <FileName>Interfaces\ICustomer.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.IDeveloper" Collapsed="true">
-    <Position X="6.75" Y="11.25" Width="1.5" />
+    <Position X="17.5" Y="11.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
       <FileName>Interfaces\IDeveloper.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.IEmployee" Collapsed="true">
-    <Position X="9" Y="8.25" Width="1.5" />
+    <Position X="19.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IEmployee.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.IManager" Collapsed="true">
-    <Position X="11.25" Y="9.75" Width="1.5" />
+    <Position X="22" Y="10.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAI=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IManager.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.IPerson" Collapsed="true">
-    <Position X="7.75" Y="7" Width="1.5" />
+    <Position X="18.5" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IPerson.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.IProject" Collapsed="true">
-    <Position X="13.75" Y="3.25" Width="1.5" />
+    <Position X="24.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAACAAAAAAAAAAEAAAAAAAABCAAAAA=</HashCode>
       <FileName>Interfaces\IProject.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.IRegularEmployee" Collapsed="true">
-    <Position X="7.75" Y="9.75" Width="1.5" />
+    <Position X="18.5" Y="10.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\IRegularEmployee.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.ISale" Collapsed="true">
-    <Position X="15.5" Y="3.25" Width="1.5" />
+    <Position X="26.25" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAAA=</HashCode>
       <FileName>Interfaces\ISale.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="_03.CompanyHierarchy.Interfaces.ISalesEmployee" Collapsed="true">
-    <Position X="9" Y="11.25" Width="1.5" />
+    <Position X="19.75" Y="11.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AEAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interfaces\ISalesEmployee.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Enum Name="_03.CompanyHierarchy.Models.Depratment" Collapsed="true">
-    <Position X="13.75" Y="4.25" Width="1.5" />
+    <Position X="24.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAgAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Depratment.cs</FileName>
