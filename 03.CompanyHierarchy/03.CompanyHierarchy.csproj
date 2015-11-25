@@ -49,7 +49,6 @@
     <Compile Include="Interfaces\IManager.cs" />
     <Compile Include="Interfaces\IPerson.cs" />
     <Compile Include="Interfaces\IProject.cs" />
-    <Compile Include="Interfaces\IRegularEmployee.cs" />
     <Compile Include="Interfaces\ISale.cs" />
     <Compile Include="Interfaces\ISalesEmployee.cs" />
     <Compile Include="Models\CompanyConstants.cs" />
