@@ -24,7 +24,7 @@
 
             private set
             {
-                Validators.Validations.IfIsNegative(value, "Person's id");
+                Validators.Validations.IfIsNegative(value, "Id");
                 this.id = value;
             }
         }
@@ -38,7 +38,7 @@
 
             private set
             {
-                Validators.Validations.IfIsNull(value, "Person's first name");
+                Validators.Validations.IfIsNull(value, "First name");
                 this.firstName = value;
             }
         }
@@ -52,7 +52,7 @@
 
             private set
             {
-                Validators.Validations.IfIsNull(value, "Person's last name");
+                Validators.Validations.IfIsNull(value, "Last name");
                 this.lastName = value;
             }
         }
