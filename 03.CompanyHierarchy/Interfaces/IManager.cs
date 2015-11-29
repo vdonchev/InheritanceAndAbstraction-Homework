@@ -4,6 +4,10 @@
 
     public interface IManager : IEmployee
     {
-        IList<IEmployee> Employees { get; }
+        IEnumerable<IEmployee> Employees { get; }
+
+        void AddEmployee(IEmployee employee);
+
+        void RemoveEmployee(IEmployee employee);
     }
 }

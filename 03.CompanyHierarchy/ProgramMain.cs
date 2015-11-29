@@ -27,6 +27,9 @@
             {
                 Console.WriteLine(employee);
             }
+
+            var man = new Manager(5, "Videlin", "Donchev", 1999, Depratment.Accounting);
+            man.AddEmployee(new Developer(5, "Ivo", "Tokiev", 55, Depratment.Accounting));
         }
     }
 }
